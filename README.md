@@ -19,11 +19,23 @@ Preview:
 
 (image)
 
-#Code
+# Code
 
-##Library
+## Library
+
 '''
 - [pygame](https://www.pygame.org/docs/)
 - [numpy](https://numpy.org/)
 '''
 
+## Code
+
+### The Matrix
+
+In the code I try using numpy to create the n x n array, and the order of the X and Y axis is like:
+
+(image)
+
+### implementing the rules
+
+(image)
