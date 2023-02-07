@@ -17,7 +17,7 @@ The initial pattern constitutes the 'seed' of the system. The first generation i
 
 Preview:
 
-[![preview](https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/thumb.png)](https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/preview.mov)
+[![preview](https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/preview.mov)](https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/preview.mov)
 
 How to use the program:
 - First you can input your the size and sum of the X and Y axis of the block, and input the fps
