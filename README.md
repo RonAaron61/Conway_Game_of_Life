@@ -1,4 +1,4 @@
-# Conway Game of Life on Python
+# Conway's Game of Life on Python
 
 Creating the [game of life by Conway](https://conwaylife.com/wiki/Conway%27s_Game_of_Life) using python with pygame library
 
