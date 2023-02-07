@@ -57,7 +57,7 @@ after that we calculate the total number of active/living block (neighbor block)
 
 as you can see there's 'block' and 'block2' array (with the same size), first the value is store in 'block2' array then clone 'block2' to 'block' that's used to see if there's a block that follow the rules (to see if there is new life or death) then it will stored in the 'block2' array, this array is then used as the base for drawing in the window.
 
-![draw](/assets/draw.png)
+
 
 In conclusion block2 is used to store the new value every time (the most update) and used to draw, and 'block' is used only as the base to check if the rules applied or not
 
