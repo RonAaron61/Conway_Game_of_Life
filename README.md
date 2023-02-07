@@ -42,8 +42,18 @@ How to use the program:
 
 In the code I try using numpy to create the n x n array, and the order of the X and Y axis is like:
 
-(image)
+![](/assets/numpyarray.png)
 
 ### implementing the rules
 
-(image)
+To implementing the rules the program will check if there's an active block or not (on the array), first it will check on the 3 row above, 3 row below, and the right and left side
+
+![rules](/assets/rules.png)
+
+after that we calculate the total number of active/living block (neighbor block) and see if it fit the rules or not
+
+![rules2](/assets/rules2.png)
+
+### draw
+
+To make the visual we use pygame library
