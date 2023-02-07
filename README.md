@@ -17,7 +17,7 @@ The initial pattern constitutes the 'seed' of the system. The first generation i
 
 Preview:
 
-(image)
+[preview](/assets/preview.mp4)
 
 How to use the program:
 - First you can input your the size and sum of the X and Y axis of the block, and input the fps
@@ -32,10 +32,9 @@ How to use the program:
 
 ## Library
 
-'''
 - [pygame](https://www.pygame.org/docs/)
 - [numpy](https://numpy.org/)
-'''
+
 
 ## Code
 
