@@ -42,7 +42,7 @@ How to use the program:
 
 In the code I try using numpy to create the n x n array, and the order of the X and Y axis is like:
 
-![](/assets/numpyarray.png)
+![array](/assets/numpyarray.png)
 
 ### implementing the rules
 
@@ -52,7 +52,7 @@ To implementing the rules the program will check if there's an active block or n
 
 after that we calculate the total number of active/living block (neighbor block) and see if it fit the rules or not
 
-![rules1](/assets/rules2.png)
+![rules1](/assets/rules1.png)
 
 ### draw
 
