@@ -52,7 +52,7 @@ To implementing the rules the program will check if there's an active block or n
 
 after that we calculate the total number of active/living block (neighbor block) and see if it fit the rules or not
 
-![rules2](/assets/rules2.png)
+![rules1](/assets/rules2.png)
 
 ### draw
 
