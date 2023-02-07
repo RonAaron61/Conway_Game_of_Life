@@ -202,8 +202,8 @@ def rules():
             if num == 3:    #If there's 3 neighbor live cell will continue to live or dead cell will live
                 block2[i][j] = 1
 
-            elif (num == 2 and block[i][j] == True):    #If there is two neighbor live cell will continue to live
-                block[i][j] = 1
+            elif (num == 2 and block2[i][j] == True):    #If there is two neighbor live cell will continue to live
+                block2[i][j] = 1
 
             else:
                 block2[i][j] = 0    #False
