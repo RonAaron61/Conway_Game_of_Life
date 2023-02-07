@@ -17,8 +17,7 @@ The initial pattern constitutes the 'seed' of the system. The first generation i
 
 Preview:
 
-<video src="https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/preview.mov" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/preview.mp4
 
 ![preview](https://github.com/RonAaron61/Conway_Game_of_Life/blob/main/assets/thumb.png)
 
