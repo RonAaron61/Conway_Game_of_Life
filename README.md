@@ -19,7 +19,16 @@ Preview:
 
 (image)
 
-# Code
+How to use the program:
+- First you can input your the size and sum of the X and Y axis of the block, and input the fps
+- If the size of the calculated window of the game is bigger then your screen size (resolution) then it will pop a warning message
+- You can stick with your window size or change it
+- After that you can click on the grid available to input your first lives block (you can put as many lives as you want)
+- To start the game play the start button, and pause button to pause the game
+- For now if you want to restart the game you have to quit the game first and reopen it
+
+
+# Program Code
 
 ## Library
 
