@@ -44,7 +44,8 @@ In the code I try using numpy to create the n x n array, and the order of the X 
 
 ![array](/assets/numpyarray.png)
 
-### implementing the rules
+
+### Implementing the rules
 
 To implementing the rules the program will check if there's an active block or not (on the array), first it will check on the 3 row above, 3 row below, and the right and left side
 
@@ -54,6 +55,7 @@ after that we calculate the total number of active/living block (neighbor block)
 
 ![rules1](/assets/rules1.png)
 
-### draw
+
+### Draw
 
 To make the visual we use pygame library
