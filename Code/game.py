@@ -17,7 +17,7 @@ How to use:
 -To start the game play the start button, and pause button to pause the game
 -For now if you want to restart the game you have to quit the game first and reopen it
 
-https://github.com/RonAaron61/Conway_Game_of_Life
+https://github.com/RonAaron61/Game-of-life-Conway
 """
 import sys
 import pygame
